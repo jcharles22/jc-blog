@@ -8,7 +8,7 @@ alt="Vue logo"
 />
 
 <CardView title='Math Attack App' subtitle='Putting together a small math question speed game to see how many question you can get right in a small time.' 
-src='./assets/mathAttack.png'
+src='https://github.com/jcharles22/jc-blog/blob/master/src/assets/mathAttack.png?raw=true'
 alt='Math question'
 />
 
