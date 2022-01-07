@@ -3,7 +3,7 @@
   <div class="flex flex-wrap justify-around">
   <div class="bg-white shadow-md border  border-gray-200 rounded-lg max-w-sm mb-5 ">
         <a href="#">
-            <img class="object-none h-48 w-96" :src='src' :atl='alt'>
+            <img class="mx-auto" :src='src' :atl='alt'>
         </a>
         <div class="p-5">
             <a href="#">
@@ -48,6 +48,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>
