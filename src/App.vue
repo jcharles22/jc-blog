@@ -2,19 +2,25 @@
 <template >
   <div class=" bg-charcoal">
         <h1 class="mx-auto text-3xl font-semibold text-white capitalize lg:text-4xl dark:text-white">My Programming<br><span class="underline decoration-blue-500">Journey</span></h1>
-        
+  
         <div class='flex justify-between pb-2'>
         <p class="text-gray-300 pl-10 text-xl ">
             Jared Charles's Blog
         </p>
         <p class="text-gray-300 pr-10 ">
-            Social
+            <a>LN </a>
+            <span> </span>
+           
+            
+           
+            <a>GH </a>
+            <span> </span>
+            <a>Pf</a>
+            
         </p>
         
         </div>
-          
-        
-     
+
     </div>
 <div class="flex flex-wrap justify-around pt-10">
 
