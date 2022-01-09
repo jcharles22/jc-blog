@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-white pt-5">
+  <div class="min-h-screen bg-gradient-to-r to-bluegray from-darkbluegray pt-5">
     <div class="lg:flex lg:justify-around lg:items-center">
       <div class="m-6">
         <div class="max-w-xl m-auto bg-gray-100 rounded-lg shadow-sm">
@@ -250,6 +250,10 @@
 <script>
 export default {
   name: "ProgramStarted",
+
+  mounted() {
+    window.scrollTo(0, 0);
+  },
 };
 </script>
 
