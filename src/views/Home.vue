@@ -1,6 +1,6 @@
 <!-- This is an example component -->
 <template >
-  <div class="bg-charcoal">
+  <div class="bg-gradient-to-r to-bluegray from-darkbluegray">
     <h1
       class="
         mx-auto
@@ -10,16 +10,23 @@
         capitalize
         lg:text-4xl
         dark:text-white
+        pt-2
       "
     >
-      My Programming<br /><span class="underline decoration-blue-500"
-        >Journey</span
-      >
+      Jared Charles's Blog
     </h1>
 
     <div class="flex justify-between pb-2">
-      <p class="text-gray-300 pl-10 text-xl">Jared Charles's Blog</p>
-      <p class="text-gray-300 pr-10">Social</p>
+      <p class="text-gray-100 pl-2 text-xl">
+        My Programming
+        <span class="underline decoration-blue-500">Journey</span>
+      </p>
+      <button
+        class="text-gray-100 pr-10 text-xl hover:text-gray-400"
+        v-on:click="linkedinLink"
+      >
+        <linkedInIcon />
+      </button>
     </div>
   </div>
   <div class="flex flex-wrap justify-around pt-10">
@@ -53,10 +60,17 @@
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
 import CardView from "../components/CardView";
+import linkedInIcon from "../assets/linkedinIcon.vue";
 export default {
   name: "Home",
   components: {
     CardView,
+    linkedInIcon,
+  },
+  methods: {
+    linkedinLink() {
+      window.open("https://www.linkedin.com/in/jared-charles/");
+    },
   },
 };
 </script>

@@ -5,7 +5,7 @@
         <div class="max-w-xl m-auto bg-gray-100 rounded-lg shadow-sm">
           <div>
             <div class="py-4 mx-8 text-3xl sm:flex sm:items-center">
-              <h1 class="p-4 text-pink-700">
+              <h1 class="p-4 text-bluegray">
                 Started with a Computer Science Class
               </h1>
             </div>
@@ -83,65 +83,67 @@
               <br />
               <p class="text-black px-5 ml-0 text-left">
                 <span class="pl-5">After,</span>
-                many months after thinkful i received a job working for a tech
-                company that sold pos(point of sale) systems to dryclearners.
-                They interview process was kind of scary the first step was
-                sitting down with the owner and the programmer and that went
-                amazing. They told be about the business and the programmer had
-                questions for me i was able to answer all the question, excpet
+                many months after Thinkful, I received a job working for a tech
+                company that sold pos(point of sale) systems to dry cleaners.
+                The interview process was kind of scary. The first step was
+                sitting down with the owner and the programmer that part went
+                amazing. They told me about the business, and the programmer had
+                questions for me. I was able to answer all the questions, except
                 the only one that stands out to me as what is hoisting(moving a
                 function, variable, or class to the top of the scope. So you can
-                use it before it is declared) i wasn't able to answer so i asked
-                question right then and there. After this interview i got a
-                phone call from my recuriter while i was still in the parking
-                lot and they wanted to set up another interview. So the second
-                interveiew is were things went bad. I sat down with the head IT
-                guy. he had a little test for me to take all about hardware how
-                many ports does this router have, how many address can it have,
-                i have never really messed with any hardware at the time except
-                building a pc. They only question out of the test i was able to
-                get was how do you get your ip address(go to comand line and
-                type ipconfig). The test was pretty much the whole interview so
-                i left feeling like i let yet another job oppertuinty go.
-                However i recievce a phone call a few days later saying they
-                really liked you but they are neverous to bring you own bored
-                because of the hardware interview, but they lowered the salary
-                some if thats acceptable they want you. Of course i accepted i
-                have been looking for a job for many month i would honelty have
-                taken anthing in the programming field at that point. Working
-                there was great everyone was very firendly and knowledgeable me
-                and the other programmer started build a web based pos system
-                from scarth. Using (Vue, Quasar, Node js, Express, Aws"Cognito,
-                dyanmodb, ", mongodb) at the same time the other programer was
-                makeing a coustomer portal alowing users to chage their
-                information on ther current systems. During that they asked if
-                we could make the customer portal into an app aswell for andriod
-                and apple. So we discussed a few diffrent option, and decided to
-                use flutter to make this happen so we only need one codebase
-                using Flutter, Dart, and Firebase. As he finished the wasbased
-                portion i started learning flutter and createing the apps. From
-                there my role was to create and maintain the apps as well as
-                work on the pos system. Unfortenly, due to covid the book of
-                business rapidly decreased and the business ended up being sold.
-                After being there a year and a half i learned many things and
-                glad i recievce all the experience of working on a small team so
-                i was able to be to use so many diffrent technologies that i
-                wouldn't of if i was just doing fontend or a specific role.
-                After the comanpy was sold i was laidoff.
+                use it before it is declared) I wasn't able to answer so I asked
+                question right then and there. After this interview, I got a
+                phone call from my recruiter while I was still in the parking
+                lot. They wanted to set up another interview. So the second
+                interview is where things went wrong. I sat down with the head
+                IT guy. He had a little test for me to take all about the
+                hardware side of things like, how many ports does a router have,
+                how many addresses can it have, I have never really messed with
+                any hardware at the time except building a pc. The only question
+                out of the test I was able to get was how do you get your IP
+                address(go to the command line and type ipconfig). The test was
+                pretty much the whole interview so I left feeling like I let yet
+                another job opportunity go. However, I received a phone call a
+                few days later saying they liked you but they are nervous to
+                bring you on board because of the hardware interview, but they
+                lowered the salary some if that's acceptable they want you. Of
+                course, I accepted I have been looking for a job for months I
+                would honestly have taken anything in the programming field at
+                that point. Working there was great everyone was very friendly
+                and knowledgeable me and the other programmer started to build a
+                web-based pos system from scratch. Using (Vue, Quasar, Node js,
+                Express, Aws"Cognito, dynamo DB, ", MongoDB) at the same time
+                the other programer was making a customer portal allowing users
+                to change their information on their current systems. During
+                that, they asked if we could make the customer portal into an
+                app as well for android and apple. So we discussed a few
+                different options and decided to use flutter to make this happen
+                so we only need one codebase using Flutter, Dart, and Firebase.
+                As he finished the web-based portion I started learning flutter
+                and creating the apps. From there my role was to create and
+                maintain the apps as well as work on the pos system.
+                Unfortunately, due to covid the book of business rapidly
+                decreased and the company ended up being sold. After being there
+                a year and a half I learned many things and glad I received all
+                the experience of working on a small team so I was able to be to
+                use so many different technologies that I wouldn't of if I was
+                just doing frontend or a specific role. After the company was
+                sold I was laid-off.
               </p>
               <br />
               <p class="text-black px-5 ml-0 text-left">
                 <span class="pl-5">I</span>
-                started appying for jobs. Received a few interviews, but still
-                no luck. I felt very depressed at the time so i decided i would
-                take a good vacation and relax. So coming back from the
-                vacation.I started working my old job in consturction to pay
-                bills. Still grinding and trying to learn as much as i can and
-                still applying for jobs that seem like would be a good fit.
-                Thats why i started this blog just to have my hands on some kind
-                of code as much as possible. At the time of writing this i still
-                haven't received a job and am actively applying so if anyone is
-                looking for a dedicated worker feel free to message me!
+                started applying for jobs again. I received a few interviews,
+                but still no luck. I felt very depressed at the time, so I
+                decided I would take a good vacation and relax a little before
+                continuing the hunt. Coming back from vacation, I started
+                working my old job in construction to pay bills. Still grinding
+                and trying to learn as much as I can. While still applying for
+                jobs that seem like would be a good fit. That's why I started
+                this blog, just to have my hands on some kind of code as much as
+                possible. At the time of writing this, I still haven't received
+                a job and am actively applying. If anyone is looking for a
+                dedicated employee, feel free to message me!
               </p>
             </div>
           </div>
@@ -172,8 +174,8 @@
                 border-2 border-gray-200
                 rounded-full
                 bg-gradient-to-r
-                from-purple-700
-                to-pink-700
+                to-bluegray
+                from-darkbluegray
               "
             >
               <svg
@@ -196,8 +198,8 @@
                 text-gray-100
                 rounded-b-lg
                 bg-gradient-to-r
-                from-purple-700
-                to-pink-700
+                to-bluegray
+                from-darkbluegray
               "
             >
               <h1

@@ -11,6 +11,8 @@ module.exports = {
         "orangeyellowcrayola": "#e9c46aff",
         "sandybrown": "#f4a261ff",
         "burntsienna": "#e76f51ff",
+        "bluegray": "#0f2027",
+        "darkbluegray": "#2c5364"
       }
     },
   },
