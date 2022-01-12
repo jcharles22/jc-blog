@@ -17,10 +17,7 @@
     </h1>
 
     <div class="flex justify-between pb-2">
-      <p class="text-gray-100 pl-2 text-xl">
-        My Programming
-        <span class="underline decoration-blue-500">Journey</span>
-      </p>
+      <p class="text-gray-100 pl-2 text-xl"></p>
       <button
         class="text-gray-100 pr-10 text-xl hover:text-gray-400"
         v-on:click="linkedinLink"
@@ -66,6 +63,9 @@ export default {
   components: {
     CardView,
     linkedInIcon,
+  },
+  mounted() {
+    window.scrollTo(0, 0);
   },
   methods: {
     linkedinLink() {
