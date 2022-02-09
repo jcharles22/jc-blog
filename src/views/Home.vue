@@ -10,16 +10,26 @@
         capitalize
         lg:text-4xl
         dark:text-white
-        pt-2
+        pt-5
+        md:pb-5
+        pb-8
       "
     >
       Jared Charles's Blog
     </h1>
 
-    <div class="flex justify-between pb-2">
-      <p class="text-gray-100 pl-2 text-xl"></p>
+    <div class="relative">
       <button
-        class="text-gray-100 pr-10 text-xl hover:text-gray-400"
+        class="
+          text-gray-100
+          pr-10
+          text-xl
+          hover:text-gray-400
+          absolute
+          bottom-1
+          md:bottom-3
+          right-0
+        "
         v-on:click="linkedinLink"
       >
         <linkedInIcon />
@@ -47,6 +57,14 @@
       subtitle="Putting together a small math question speed game to see how many question you can get right in a small time."
       src="https://github.com/jcharles22/jc-blog/blob/master/src/assets/mathAttack.png?raw=true"
       alt="Math question"
+    />
+
+    <CardView
+      title="Manager App"
+      subtitle="Putting together a small Employee tracking app. So i can keep up with employees easier."
+      src="https://github.com/jcharles22/jc-blog/blob/master/src/assets/mathAttack.png?raw=true"
+      alt="Math question"
+      to="ManagerApp"
     />
   </div>
   <router-view />

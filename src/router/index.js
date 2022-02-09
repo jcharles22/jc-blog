@@ -2,6 +2,8 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import Menu from '../views/Menu.vue';
 import ProgramStarted from '../presentation/screens/ProgramStartedScreen.vue';
+import ManagerApp from '../presentation/screens/ManagerAppScreen.vue';
+
 const routes = [
   {
     path: '/',
@@ -25,6 +27,11 @@ const routes = [
     path: '/ProgramStarted',
     name: 'ProgramStarted',
     component: ProgramStarted,
+  },
+  {
+    path: '/ManagerApp',
+    name: 'ManagerApp',
+    component: ManagerApp,
   },
 
 ]
